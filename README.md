@@ -14,7 +14,6 @@ Issue Tracker:
 Check the Issue Tracker for tasks.
 
 Code Review:
-
 All contributins a code review process.
 
 Licensing:
